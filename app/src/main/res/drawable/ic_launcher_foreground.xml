@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Receipt Paper emerging from top -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M35,26 L41,29 L47,26 L53,29 L59,26 L65,29 L73,26 L73,48 L35,48 Z" />
+    
+    <!-- Receipt printed line details -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M40,32 h28 v2.5 h-28 z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M40,37 h20 v2 h-20 z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M40,41 h24 v2 h-24 z" />
+
+    <!-- Terminal Main Body Base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,46 C30,44 32,42 34,42 L74,42 C76,42 78,44 78,46 L78,78 C78,81 76,83 73,83 L35,83 C32,83 30,81 30,78 Z" />
+
+    <!-- Printer paper exit slit -->
+    <path
+        android:fillColor="#0F172A"
+        android:pathData="M34,45 h40 v3.5 h-40 z" />
+
+    <!-- Terminal Screen Display -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M36,52 C36,51 37,50 38,50 L70,50 C71,50 72,51 72,52 L72,62 C72,63 71,64 70,64 L38,64 C37,64 36,63 36,62 Z" />
+
+    <!-- Screen text simulation -->
+    <path
+        android:fillColor="#E0F2FE"
+        android:pathData="M40,54 h14 v2 h-14 z M40,58 h24 v2.5 h-24 z" />
+
+    <!-- Keypad buttons -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M37,68 h6 v5 h-6 z M46,68 h6 v5 h-6 z M55,68 h6 v5 h-6 z M64,68 h7 v5 h-7 z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M64,75 h7 v5 h-7 z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M37,75 h6 v5 h-6 z M46,75 h6 v5 h-6 z M55,75 h6 v5 h-6 z" />
+</vector>

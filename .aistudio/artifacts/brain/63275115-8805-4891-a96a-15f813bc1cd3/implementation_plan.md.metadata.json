@@ -1,0 +1,6 @@
+{
+  "summary": "Plan to overhaul Bluetooth thermal printer connectivity with runtime permissions, multi-protocol RFCOMM fallback, BLE/Classic discovery, and virtual testing, plus implement responsive adaptive split-screen layouts for tablets/landscape and compact phones.",
+  "updatedAt": "2026-10-13T12:50:07.909994870Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
